@@ -13,4 +13,4 @@ NEW VERSION DOWNLOAD LINK: https://github.com/skal3mar/Spotify-Premium-apk/relea
 NEW VERSION VIRUSTOTAL SCAN: https://www.virustotal.com/gui/file/a4d57041c5e3887574b62ec1606431a0be7f34db0a46ff6fdeeddf4a99efb526?nocache=1
 
 SHA-256 of this file: a4d57041c5e3887574b62ec1606431a0be7f34db0a46ff6fdeeddf4a99efb526
-MD% of this file 786f3ec67eedb647c2a0e302dde3e8ad
+<p>MD5 of this file 786f3ec67eedb647c2a0e302dde3e8ad
