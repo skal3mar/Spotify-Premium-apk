@@ -4,4 +4,5 @@ Download link: https://mega.nz/file/7wgyWITI#dYZ2LbjUfmz7LQ7ZRMb44fH1Ump5UYYDbUx
 VirusTotal scan: https://www.virustotal.com/gui/file-analysis/ZWRjMmU0ZDQ1MDIyNmE3ZDcyOTA1OGE3YTJkYTZiZWE6MTY0Njc2NzA2Ng==
 Video how to install is avible on tiktok: https://vm.tiktok.com/ZMLb7M9my/
 
- Tested on POCO x3 pro
+ Tested on POCO x3 pro, Xiaomi redmi 9 t
+password of the zip file is: kochampapieza
