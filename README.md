@@ -6,3 +6,5 @@ Video how to install is avible on tiktok: https://vm.tiktok.com/ZMLb7M9my/
 
  Tested on POCO x3 pro, Xiaomi redmi 9 t
 password of the zip file is: kochampapieza
+
+NEW VERSION DOWNLOAD LINK: https://github.com/skal3mar/Spotify-Premium-apk/releases/download/1.1v2/Spotify.Premium_new.zip
