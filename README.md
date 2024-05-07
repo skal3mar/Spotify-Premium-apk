@@ -1,10 +1,10 @@
 # Spotify-Premium-apk
 Free Spotify Premium 
-Tested on POCO x3 pro (android 11,12)
+Work for most devices.
 
-<h2>NEW VERSION</h2>
+<h2>LATEST VERSION</h2>
+Link: https://github.com/skal3mar/Spotify-Premium-apk/releases/download/8.9.18.512/com.spotify.music_8.9.18.512.apk
+Virustotal.com scan link(0/59): https://www.virustotal.com/gui/file/aec88990570b6b97772993e1d02ebe3e20e2cdc53604190dc9e3431ccdf78ce9
+md5 checksum: 2BBC568A2ACAA3DD83D28003479EFBE5:com.spotify.music_8.9.18.512.apk
 
-NEW VERSION DOWNLOAD LINK: https://github.com/skal3mar/Spotify-Premium-apk/releases/download/1.1v2/Spotify.Premium_new.zip
-NEW VERSION VIRUSTOTAL SCAN: https://www.virustotal.com/gui/file/a4d57041c5e3887574b62ec1606431a0be7f34db0a46ff6fdeeddf4a99efb526?nocache=1
 
-<p>MD5 of this file 786f3ec67eedb647c2a0e302dde3e8ad
